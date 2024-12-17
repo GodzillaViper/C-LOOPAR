@@ -1,0 +1,14 @@
+C:\Users\kamran.allahverdi\Desktop\C#LOOPAR\C#loop\bin\Debug\net8.0\C#loop.exe
+C:\Users\kamran.allahverdi\Desktop\C#LOOPAR\C#loop\bin\Debug\net8.0\C#loop.deps.json
+C:\Users\kamran.allahverdi\Desktop\C#LOOPAR\C#loop\bin\Debug\net8.0\C#loop.runtimeconfig.json
+C:\Users\kamran.allahverdi\Desktop\C#LOOPAR\C#loop\bin\Debug\net8.0\C#loop.dll
+C:\Users\kamran.allahverdi\Desktop\C#LOOPAR\C#loop\bin\Debug\net8.0\C#loop.pdb
+C:\Users\kamran.allahverdi\Desktop\C#LOOPAR\C#loop\obj\Debug\net8.0\C#loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran.allahverdi\Desktop\C#LOOPAR\C#loop\obj\Debug\net8.0\C#loop.AssemblyInfoInputs.cache
+C:\Users\kamran.allahverdi\Desktop\C#LOOPAR\C#loop\obj\Debug\net8.0\C#loop.AssemblyInfo.cs
+C:\Users\kamran.allahverdi\Desktop\C#LOOPAR\C#loop\obj\Debug\net8.0\C#loop.csproj.CoreCompileInputs.cache
+C:\Users\kamran.allahverdi\Desktop\C#LOOPAR\C#loop\obj\Debug\net8.0\C#loop.dll
+C:\Users\kamran.allahverdi\Desktop\C#LOOPAR\C#loop\obj\Debug\net8.0\refint\C#loop.dll
+C:\Users\kamran.allahverdi\Desktop\C#LOOPAR\C#loop\obj\Debug\net8.0\C#loop.pdb
+C:\Users\kamran.allahverdi\Desktop\C#LOOPAR\C#loop\obj\Debug\net8.0\C#loop.genruntimeconfig.cache
+C:\Users\kamran.allahverdi\Desktop\C#LOOPAR\C#loop\obj\Debug\net8.0\ref\C#loop.dll
